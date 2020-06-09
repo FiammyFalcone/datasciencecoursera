@@ -1,0 +1,14 @@
+---
+title: "HelloWorld"
+author: "Fiammetta Falcone"
+date: "09/06/2020"
+output: pdf_document
+---
+
+
+## **This is R Markdown file**
+*Part 3:* assignment Data Scientist's ToolBox.
+
+
+
+
